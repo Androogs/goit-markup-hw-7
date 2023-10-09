@@ -1,0 +1,15 @@
+@import "./components/modern__normalize";
+@import "./utils/variables";
+@import "./components/container";
+@import "./components/footer";
+@import "./components/header";
+@import "./components/main__components";
+@import "./components/main__port";
+
+:root {
+  --brand-color: rgba(33, 150, 243, 1);
+  --icon-default: #afb1b8;
+  --letters-gray: rgba(117, 117, 117, 1);
+  --dark-color: rgba(47, 48, 58, 1);
+  --ligt-color: #ffffff;
+}
